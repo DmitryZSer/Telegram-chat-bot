@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import requests, random
 
 
-bot = telebot.TeleBot(('6937234108:AAGuTKWvrHfAEf_yvnja7LmMHbBY2iFxUP4'))
+bot = telebot.TeleBot(('your token'))
 
 reply_markup=types.ReplyKeyboardRemove()
 
